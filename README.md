@@ -5,6 +5,18 @@
 Welcome to my GitHub! I'm passionate about developing intelligent solutions using Machine Learning, Python, and Full-Stack Web Development. Currently, I'm deepening my knowledge in AI and working on projects that make a real-world impact.
 
 ---
+<div align="center">
+  <a href="https://prempoudel.com.np/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Visit-My%20Site-blue?style=for-the-badge" 
+      alt="Visit My Site" 
+      style="width: 200px; height: auto;"
+    >
+  </a>
+</div>
+
+
+---
 
 ## 🛠️ Tech Stack
 
